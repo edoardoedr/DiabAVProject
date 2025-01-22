@@ -1,3 +1,4 @@
 Dataset_compressed/
 Datasets
 __pycache__/
+checkpoints/
